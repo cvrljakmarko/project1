@@ -5,7 +5,7 @@ export default function Layout({ children }) {
         <div>
             <nav>
                 <Link href="/">Home</Link>
-                <Link href="/about">About</Link>
+                <Link href="/about">About Us</Link>
             </nav>
             {children}
         </div>
